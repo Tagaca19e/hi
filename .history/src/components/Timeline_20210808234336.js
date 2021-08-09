@@ -61,7 +61,7 @@ const Timeline = () => {
           React.Js, Express.Js, MongoDB, and Node.Js.
         </p>
       </VerticalTimelineElement>
-      {/* <VerticalTimelineElement
+      <VerticalTimelineElement
         className="vertical-timeline-element--work"
         date="2006 - 2008"
         iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
@@ -72,7 +72,7 @@ const Timeline = () => {
           San Francisco, CA
         </h4>
         <p>User Experience, Visual Design</p>
-      </VerticalTimelineElement> */}
+      </VerticalTimelineElement>
       {/* <VerticalTimelineElement
         className="vertical-timeline-element--education"
         date="April 2013"
