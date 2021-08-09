@@ -17,7 +17,7 @@
   display: inline-block;
   margin: 0 auto;
 }
-.about_section .device .frame {
+.about_section .container .device .frame {
   padding: 30px 2px 2px;
   border-radius: 10px;
   background: #ddd;

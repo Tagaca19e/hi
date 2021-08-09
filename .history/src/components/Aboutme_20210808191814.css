@@ -1,23 +1,19 @@
 .about_section {
   font-size: 16px;
 }
-.eidmone {
-  margin: 0%;
-}
 .intro {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
 .about_section .container {
+  text-align: center;
   padding-top: 10rem;
-  margin-left: auto;
-  margin-right: auto;
 }
 .about_section .container .device {
   display: inline-block;
   margin: 0 auto;
 }
-.about_section .device .frame {
+.about_section .container .device .frame {
   padding: 30px 2px 2px;
   border-radius: 10px;
   background: #ddd;

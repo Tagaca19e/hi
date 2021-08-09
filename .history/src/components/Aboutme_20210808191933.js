@@ -7,7 +7,7 @@ import "./Aboutme.css";
 
 function About() {
   return (
-    <section className="about_section eidmone" id="aboutSection" name="about">
+    <section className="about_section " id="aboutSection" name="about">
       <VisibilitySensor>
         <Fade bottom cascade>
           <div>

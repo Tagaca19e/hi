@@ -23,6 +23,15 @@ body {
   height: 100vh;
 }
 
+.master-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  min-height: 100%;
+}
 .hero {
   bottom: 0;
 }
