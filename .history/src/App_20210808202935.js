@@ -36,7 +36,7 @@ function App() {
 
         <About />
       </div>
-      <div className="max-w-screen-xl mx-auto">
+      <div className="max-w-full">
         <Skill />
         <Project />
         <Timeline />

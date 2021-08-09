@@ -36,13 +36,11 @@ function App() {
 
         <About />
       </div>
-      <div className="max-w-screen-xl mx-auto">
-        <Skill />
-        <Project />
-        <Timeline />
+      <Skill />
+      <Project />
+      <Timeline />
 
-        <Contact />
-      </div>
+      <Contact />
     </Suspense>
   );
 }
