@@ -70,7 +70,6 @@ const Timeline = () => {
         <h4 className="vertical-timeline-element-subtitle">Online Course</h4>
         <p>Strategy, Social Media</p>
       </VerticalTimelineElement>
-    </VerticalTimeline>
-  );
+  
 };
 export default Timeline;

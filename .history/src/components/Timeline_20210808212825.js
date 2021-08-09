@@ -22,7 +22,7 @@ const Timeline = () => {
         </p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
-        // className="vertical-timeline-element--work"
+        className="vertical-timeline-element--work"
         date="2010 - 2011"
         // iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
         // icon={<WorkIcon />}
@@ -69,6 +69,30 @@ const Timeline = () => {
         </h2>
         <h4 className="vertical-timeline-element-subtitle">Online Course</h4>
         <p>Strategy, Social Media</p>
+      </VerticalTimelineElement>
+      <VerticalTimelineElement
+        className="vertical-timeline-element--education"
+        date="November 2012"
+        iconStyle={{ background: "rgb(233, 30, 99)", color: "#fff" }}
+        // icon={<SchoolIcon />}
+      >
+        <h2 className="vertical-timeline-element-title">
+          Agile Development Scrum Master
+        </h2>
+        <h4 className="vertical-timeline-element-subtitle">Certification</h4>
+        <p>Creative Direction, User Experience, Visual Design</p>
+      </VerticalTimelineElement>
+      <VerticalTimelineElement
+        className="vertical-timeline-element--education"
+        date="2002 - 2006"
+        iconStyle={{ background: "rgb(233, 30, 99)", color: "#fff" }}
+        // icon={<SchoolIcon />}
+      >
+        <h2 className="vertical-timeline-element-title">
+          Bachelor of Science in Interactive Digital Media Visual Imaging
+        </h2>
+        <h4 className="vertical-timeline-element-subtitle">Bachelor Degree</h4>
+        <p>Creative Direction, Visual Design</p>
       </VerticalTimelineElement>
     </VerticalTimeline>
   );
