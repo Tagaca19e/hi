@@ -1,0 +1,23 @@
+.short-description {
+  background-color: rgba(58, 57, 57, 0.705);
+  border-radius: 10px;
+  padding-left: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.Im-Eidmone {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.particles-container {
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  z-index: 0;
+  background-color: white;
+}

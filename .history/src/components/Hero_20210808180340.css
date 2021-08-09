@@ -1,0 +1,23 @@
+.short-description {
+  background-color: rgba(58, 57, 57, 0.705);
+  border-radius: 10px;
+  padding-left: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.Im-Eidmone {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.home {
+  z-index: 10;
+}
+.hero {
+  z-index: 10;
+
+  margin: 0px 24px;
+  transition: 0.1s all ease-in-out;
+  animation: app-enter-anim 0.1s ease-out;
+}
