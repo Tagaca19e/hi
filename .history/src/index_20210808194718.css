@@ -30,6 +30,19 @@ body {
 html {
   scroll-behavior: smooth;
 }
+.homePage {
+  position: absolute;
+  /* left: 0;
+  padding-left: 10%; */
+  /* padding-top: 13rem; */
+  top: 20rem;
+
+  /* position: absolute;
+  z-index: 2; */
+}
+.particles-settings {
+  width: 100%;
+}
 
 h1 {
   background-color: #4158d0;

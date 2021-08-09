@@ -10,6 +10,7 @@
 }
 .about_section .container {
   padding-top: 10rem;
+  text-align: center;
 }
 .about_section .container .device {
   display: inline-block;
