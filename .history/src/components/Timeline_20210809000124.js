@@ -13,7 +13,7 @@ const Timeline = () => {
       </header>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
-        // date="2010 - 2011"
+        date="2010 - 2011"
         iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
         // icon={<WorkIcon />}
       >
@@ -26,17 +26,14 @@ const Timeline = () => {
         <p>
           Managed to help out students with their frequently asked problems by
           making infographic videos, these included how to pay for tuition fees
-          and how to navigate the school . Promoted independent learning by
-          creating videos that would help them to understand the topic that they
-          were learning. Made sure to transform videos into an active learning
-          experience for students to enjoy.
+          and how to navigate the school
         </p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
-      // className="vertical-timeline-element--work"
-      // date="2010 - 2011"
-      // iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
-      // icon={<WorkIcon />}
+        // className="vertical-timeline-element--work"
+        date="2010 - 2011"
+        // iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+        // icon={<WorkIcon />}
       >
         <h4 className="vertical-timeline-element-title">
           Software Developer Program - IBM
@@ -46,15 +43,12 @@ const Timeline = () => {
         </h4>
         <p>
           Built Full stack applications using React.js, Express.js, and the MVC
-          architecture. Accomplished 100% on the labs by planning, working, and
-          communicating with the team efficiently. Managed to be in the top 10%
-          in terms of lab points and bi-weekly hacker rank tests. Deployed
-          applications using IBM cloud and Heroku.
+          architecture.
         </p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
-        // date="2008 - 2010"
+        date="2008 - 2010"
         iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
         // icon={<WorkIcon />}
       >
@@ -65,12 +59,9 @@ const Timeline = () => {
           Jan 2021 - Current
         </h4>
         <p>
-          Helped out other colleagues on how to utilize rest APIs appropriately,
-          that would help them grasp how APIs are used for data in full stack
-          applications. Organized a workshop for building a MERN stack
-          application that enabled students to learn frontend and backend
-          development with React.Js, Express.Js, MongoDB, and Node.Js. Presented
-          a slideshow on how to fully understand how to use the GitHub.
+          Organized a workshop for building a MERN stack application that
+          enabled students to learn frontend and backend development with
+          React.Js, Express.Js, MongoDB, and Node.Js.
         </p>
       </VerticalTimelineElement>
       {/* <VerticalTimelineElement

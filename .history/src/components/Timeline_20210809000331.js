@@ -13,7 +13,7 @@ const Timeline = () => {
       </header>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
-        // date="2010 - 2011"
+        date="2010 - 2011"
         iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
         // icon={<WorkIcon />}
       >
@@ -33,10 +33,10 @@ const Timeline = () => {
         </p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
-      // className="vertical-timeline-element--work"
-      // date="2010 - 2011"
-      // iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
-      // icon={<WorkIcon />}
+        // className="vertical-timeline-element--work"
+        date="2010 - 2011"
+        // iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+        // icon={<WorkIcon />}
       >
         <h4 className="vertical-timeline-element-title">
           Software Developer Program - IBM
@@ -54,7 +54,7 @@ const Timeline = () => {
       </VerticalTimelineElement>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
-        // date="2008 - 2010"
+        date="2008 - 2010"
         iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
         // icon={<WorkIcon />}
       >
@@ -70,7 +70,7 @@ const Timeline = () => {
           applications. Organized a workshop for building a MERN stack
           application that enabled students to learn frontend and backend
           development with React.Js, Express.Js, MongoDB, and Node.Js. Presented
-          a slideshow on how to fully understand how to use the GitHub.
+          a slideshow on how to fully understand how to use the GitHub
         </p>
       </VerticalTimelineElement>
       {/* <VerticalTimelineElement
