@@ -143,8 +143,8 @@ const Hero = () => {
       />
       <div>
         <Header />
-        <div className="hero app  max-w-md mb-auto space-y-5 ">
-          <div className="herp space-y-5">
+        <div className="hero app  max-w-md mb-auto space-y-10 ">
+          <div className="herp">
             <h1 className="text-5xl font-bold md:text-7xl">Hello</h1>
 
             <h1 className="text-5xl font-bold md:text-7x2">

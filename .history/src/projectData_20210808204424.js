@@ -9,10 +9,9 @@ const projects = [
     link: "https://rn-store.herokuapp.com/",
   },
   {
-    title: " GitSearch | search github users",
+    title: "Typing Test",
     image: "./images/tmdb-mockup",
-    description:
-      "A voice-activated Expense Tracker App that allows you to track income and expenses across a range of categories, developed to showcase the use of React.JS, Material UI, and the use of libraries.",
+    description: "sdjfiojdsifjdksjfjsdajklj klsadjf",
     tools: ["React", "API", "SASS"],
     github: "https://github.com/Deelip7/react-tmdb-app",
     link: "https://festive-wilson-a51c32.netlify.app/",

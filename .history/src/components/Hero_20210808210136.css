@@ -19,10 +19,8 @@
   text-align: center;
   margin: 0 auto;
   position: relative;
+  display: table;
+  vertical-align: middle;
   transition: 0.1s all ease-in-out;
   animation: app-enter-anim 0.1s ease-out;
-}
-.herp {
-  position: absolute;
-  top: 30%;
 }
