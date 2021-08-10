@@ -11,7 +11,7 @@ const Contact = () => {
     emailjs
       .sendForm(
         "outlook",
-        "template_m4gllxn",
+        "template_y9zvpym",
         e.target,
         "user_e3ndbgiKJPvfYYge0qucz"
       )

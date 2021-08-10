@@ -1,6 +1,6 @@
 import React from "react";
 import "./contact.css";
-import emailjs from "emailjs-com";
+import emailjs from "emailj-com";
 import linkedin from "./images/icons/linkedin.svg";
 import github from "./images/icons/github.svg";
 
@@ -10,8 +10,8 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "outlook",
-        "template_m4gllxn",
+        "gmail",
+        "service_fjve4cr",
         e.target,
         "user_e3ndbgiKJPvfYYge0qucz"
       )
@@ -23,7 +23,6 @@ const Contact = () => {
           console.log(error.text);
         }
       );
-    e.target.reset();
   }
   return (
     <section>

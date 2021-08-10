@@ -10,8 +10,8 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "outlook",
-        "template_m4gllxn",
+        "gmail",
+        "template_y9zvpym",
         e.target,
         "user_e3ndbgiKJPvfYYge0qucz"
       )
